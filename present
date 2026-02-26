@@ -1,7 +1,2 @@
-cd acet-deploy
-git init
-git add index.html
-git commit -m "ACET presentation"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/acet-presentation.git
+git remote add origin https://github.com/Zizo-Za-Developa/acet-presentation.git
 git push -u origin main
